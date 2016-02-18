@@ -1,0 +1,21 @@
+{
+  "name": "MinuteMaster",
+  "description": "Tool to automatically create meeting minutes from github issues.",
+  "homepage": "http://elemmings.fi",
+  "version": "0.0.1",
+  "author": {
+    "name": "Heikki Kurhinen",
+    "url": "http://elemmings.fi"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "github": "*"
+  }
+}
